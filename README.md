@@ -1,3 +1,2 @@
 # Weather-Dashboard
-npm i 
-npm start
+npm i & start
